@@ -1,2 +1,2 @@
-# Gerichtsentscheidungen-
+# Gerichtsentscheidungen
 Veröffentlichung von Gerichtsentscheidungen
